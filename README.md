@@ -1,2 +1,3 @@
 # My-Learning-at-YBI-Foundation
-My Data Science projects of YBI
+I am learning at YBI Foundation
+full Stack in AIML
